@@ -1,0 +1,18 @@
+{
+  "model_terbaik": "Logistic Regression (TF-IDF)",
+  "classes": [
+    "cek_jatuh_tempo",
+    "cek_unit",
+    "info_kontak",
+    "info_lokasi",
+    "keluhan",
+    "lainnya",
+    "status_pembayaran",
+    "tanya_aturan",
+    "tanya_fasilitas"
+  ],
+  "max_words": 3000,
+  "max_len": 20,
+  "threshold": 0.5,
+  "seed": 434
+}
